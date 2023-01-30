@@ -13,5 +13,10 @@ namespace Alura0201
         public string titular;
         public double saldo;
 
+        public void depositar(double valor)
+        {
+            this.saldo += valor;
+        }
+
     }
 }
