@@ -5,7 +5,7 @@ using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Alura0201
+namespace csharp0201
 {
     public class contaCorrente
     {
